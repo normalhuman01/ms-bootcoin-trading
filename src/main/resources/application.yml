@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ms-bootcoin-trading
+  profiles:
+    active: local
